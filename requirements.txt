@@ -1,0 +1,5 @@
+matplotlib==3.8.3
+shap==0.44.1
+streamlit==1.31.1
+torch==2.2.0
+transformers==4.38.1
