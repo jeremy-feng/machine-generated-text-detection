@@ -17,11 +17,11 @@
 1. 克隆仓库或下载代码到本地。
 2. 本项目使用以下依赖：
    ```
-    matplotlib==3.8.3
-    shap==0.44.1
-    streamlit==1.31.1
-    torch==2.2.0
-    transformers==4.38.1
+   matplotlib==3.10.7
+   shap==0.48.0
+   streamlit==1.51.0
+   torch==2.6.0
+   transformers==4.51.1
    ```
 3. 在命令行中运行 `streamlit run app.py` 启动应用。
 
